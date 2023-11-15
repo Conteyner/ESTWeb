@@ -562,3 +562,8 @@ table.table th {
       width: 100%;
   }
 }
+
+.steam {
+  text-decoration: none;
+  color: peru;
+}
